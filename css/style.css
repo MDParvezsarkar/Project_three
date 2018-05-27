@@ -1,0 +1,109 @@
+.main{
+	text-align: center;
+	width: 100%;
+	color: #3ABAEA;
+}
+
+
+.container{
+	width: 70%;
+	height: 700px;
+	background-color: yellow;
+	margin: 0 auto;
+	text-align: center;
+	color: white;
+}
+.header{
+	width: 100%;
+	height: 80px;
+	background-color: red;
+
+}
+.logo{
+		width: 25%;
+		height: 80px;
+		background-color: #000000;
+		float: left;
+
+}
+.menu{
+		width: 75%;
+		height: 80px;
+		background-color: #D07A49;
+		float: left;
+}
+.contain{
+		width: 100%;
+		height:420px;
+		background-color: white;
+		float: left;
+
+
+
+}
+.part_one{
+
+		width: 25%;
+		height: 420px;
+		background-color: red;
+		float: left;
+}
+.part_two{
+		width: 75%;
+		height: 120px;
+		background-color: #00B266;
+		float: left;
+
+}
+.part_three{
+		width: 75%;
+		height: 120px;
+		background-color: #01A1FF;
+		float: left;
+}
+.part_four{
+		width:37.5%;
+		height: 180px;
+		background-color: #5449CC;
+		float: left;
+}
+.part_five{
+		width:37.5%;
+		height: 180px;
+		background-color: #FE7E0A;
+		float: left;
+}
+.banner{
+
+		width: 100%;
+		height: 120px;
+		background: #00000;
+		float: left;
+}
+.banner_one{
+
+		width: 50%;
+		height: 120px;
+		background: #7F7F7F;
+		float: left;
+}
+
+
+.banner_two{
+		width: 50%;
+		height: 120px;
+		background: #894D2B;
+		float: left;
+
+
+}
+.footer{
+		width: 100%;
+		height: 80px;
+		background: #DC4990;
+		float: left;
+		text-align: center;
+		color: #ffffff;
+		
+
+}
